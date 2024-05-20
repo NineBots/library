@@ -7,6 +7,10 @@ const Router = EmberRouter.extend({
 });
 
 Router.map(function() {
+  this.route('meetings');
+  this.route('speakers');
+  this.route('books');
+  this.route('not-found', {path: '/*path'});
 });
 
 export default Router;
