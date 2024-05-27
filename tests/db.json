@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "Название ",
+      "author": "Фамилия имя",
+      "pages": "3",
+      "description": "http://localhost:4200/edit-book/1",
+      "photo": "https://snipp.ru/uploads/view/241a4bd1001617375122190fb42d5d45.png",
+      "tags": [
+        "#супер",
+        "#пупер",
+        "#пропер",
+        "#мопер",
+        "#лопер"
+      ],
+      "rating": 25
+    },
+    {
+      "id": "2",
+      "name": "Name",
+      "author": "Фамилия имя",
+      "pages": "Кол-во страниц",
+      "description": "http://localhost:4200/edit-book/2",
+      "photo": "https://web-answers.ru/wp-content/uploads/2019/01/8omaD.png",
+      "tags": [
+        "#супер",
+        "#пупер",
+        "#нанана"
+      ],
+      "rating": 25
+    },
+    {
+      "id": "c465",
+      "name": "Книга о разбойнике",
+      "author": "Писатель",
+      "pages": "250",
+      "description": "http://localhost:4200/create-book",
+      "photo": "https://harpersbazaar.kz/wp-content/uploads/2020/10/Screen-Shot-2020-10-27-at-19.28.02-2048x1269.png",
+      "tags": [
+        "#супер",
+        "#пупер",
+        "#пропер",
+        "#мопер"
+      ],
+      "rating": 25
+    },
+    {
+      "name": "Том и джерри",
+      "author": "Дисней",
+      "pages": "3000",
+      "description": "http://localhost:4200/create-book",
+      "photo": "https://gas-kvas.com/grafic/uploads/posts/2023-10/1696486980_gas-kvas-com-p-kartinki-tom-i-dzherri-malenkie-8.png",
+      "tags": [
+        "#супер",
+        "#мышки",
+        "#кошки",
+        "#боевик"
+      ],
+      "rating": 0,
+      "id": "GH6939t"
+    }
+  ]
+}

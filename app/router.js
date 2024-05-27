@@ -11,6 +11,8 @@ Router.map(function() {
   this.route('speakers');
   this.route('books');
   this.route('not-found', {path: '/*path'});
+  this.route('edit-book', {path: 'edit-book/:id'});
+  this.route('create-book');
 });
 
 export default Router;
